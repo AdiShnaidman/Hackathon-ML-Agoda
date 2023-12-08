@@ -1,4 +1,8 @@
-# Agoda Hotel Cancellations Hackathon Challenge. Participated in the Agoda Hackathon Challenge focusing on Hotel Cancellations, a data-driven competition that involved leveraging machine learning to predict and optimize hotel booking cancellations
+# Agoda Hotel Cancellations Hackathon Challenge
+
+I participated in the Agoda Hackathon Challenge, concentrating on Hotel Cancellations—a data-driven competition that required leveraging machine learning to predict and optimize hotel booking cancellations.
+
+On this note, I'd like to express my gratitude to my colleagues Shoham Mazuz, Omer Ventura, and Amit Benbenishti for their outstanding collaborative efforts on this project.
 
 
 
