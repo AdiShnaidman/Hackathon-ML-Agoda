@@ -1,3 +1,7 @@
+# Agoda Hotel Cancellations Hackathon Challenge. Participated in the Agoda Hackathon Challenge focusing on Hotel Cancellations, a data-driven competition that involved leveraging machine learning to predict and optimize hotel booking cancellations
+
+
+
 Files in the directory:
 main.py - the main function of the program 
 task_1.py - runs the first task and creats the csv
